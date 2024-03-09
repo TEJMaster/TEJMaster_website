@@ -1,13 +1,15 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "TEJMaster_website"
+  title: "TEJMaster Website"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Home"
+        href: index.qmd
+      - text: "Contact"
+        href: contact.qmd
 
 format:
   html:
@@ -17,3 +19,5 @@ format:
 
 editor: visual
 
+html-head:
+  - "<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'>"

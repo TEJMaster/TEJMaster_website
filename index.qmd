@@ -1,11 +1,34 @@
 ---
-title: "TEJMaster_website"
+title: "Terry Tu's Personal Website"
+format: 
+  html:
+    toc: true
 ---
 
-This is a Quarto website.
+# Hi there, I'm Terry Tu! 👋
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## 📊 About Me
+I am a computer science specialist student with a minor in statistics, currently in my third year at the University of Toronto. I am proficient in Python, Java, C, and MIPS Assembly and have project experience in these programming languages. Additionally, I have hands-on experience in web development using React, HTML, CSS, JavaScript, Node.js, Django, and REST frameworks. As for databases, I have previously worked with PostgreSQL and SQLite.
 
-```{r}
-1 + 1
-```
+## 😄 Background
+- **Education:** Computer Science student at the University of Toronto, Class of 2025
+- **College:** New College, University of Toronto
+- **Programs Enrolled:**
+  - Specialist in Computer Science
+  - Focus in Artificial Intelligence
+  - Focus in Web & Internet Technologies
+  - Minor in Statistics
+- **Hometown:** Beijing, China
+
+## 🛠 Technology Stack
+- **Languages:** Python, Java, C, MIPS Assembly, R, LaTeX
+- **Web Front-end:** HTML, CSS, JavaScript, React
+- **Web Back-end:** Django, Django REST Framework, Node.js
+- **Databases:** PostgreSQL, MySQL, SQLite
+- **Tools:** Visual Studio Code, Postman, Selenium, MobaXterm, VMware, Git/GitHub, Overleaf
+- **Operating Systems:** Windows, macOS, Linux
+- **Scripting:** Shell Script
+
+You can follow me on GitHub using the link: [TEJMaster](https://github.com/TEJMaster).
+
+## [My CV](Terry_Resume.pdf)
